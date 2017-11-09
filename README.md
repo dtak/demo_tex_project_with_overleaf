@@ -6,7 +6,7 @@ Shows how to make a git repository for LaTeX document that has TWO remote locati
 
 This repo itself is a working example! 
 Go to the corresponding Overleaf page:
-[https://www.overleaf.com/12112063hyqwrddhndqq#/45998459/](https://www.overleaf.com/12112063hyqwrddhndqq#/45998459/)
+[https://www.overleaf.com/12112063hyqwrddhndqq/](https://www.overleaf.com/12112063hyqwrddhndqq/)
 
 You'll see the files there are the same as the files in this repo.
 
