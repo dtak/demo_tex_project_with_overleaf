@@ -4,6 +4,13 @@ Shows how to make a git repository for LaTeX document that has TWO remote locati
 * one on Github (to easily share .tex source files with other folks)
 * one on Overleaf (to easily display and edit doc in browser)
 
+This repo itself is a working example! 
+Go to the corresponding Overleaf page:
+[https://www.overleaf.com/12112063hyqwrddhndqq#/45998459/](https://www.overleaf.com/12112063hyqwrddhndqq#/45998459/)
+
+You'll see the files there are the same as the files in this repo.
+
+
 ## Workflow (do this every time you edit your document)
 
 After edits on Overleaf, which you want to syncronize to the github remote repo:
