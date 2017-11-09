@@ -21,7 +21,7 @@ git push overleaf master
 
 ## Setup (do this once)
 
-* (1) Create a new project on Overleaf
+### (1) Create a new project on Overleaf
 
 * * Goto overleaf.com 
 * * Click New Project
@@ -30,14 +30,15 @@ git push overleaf master
 
 Example link: `https://git.overleaf.com/12112063hyqwrddhndqq`
 
-* (2) Clone the overleaf remote repo on your laptop, named as "overleaf"
+### (2) Clone the overleaf remote repo on your laptop
 
+First, clone the repo into a folder of your choice on your local machine:
 ```
 cd /path/to/your/repos/
 git clone https://git.overleaf.com/12112063hyqwrddhndqq
 ```
 
-Rename your local repo to something useful
+Rename your local repo to something useful:
 ```
 mv 12112063hyqwrddhndqq demo_tex_project_with_overleaf
 cd demo_tex_project_with_overleaf/
