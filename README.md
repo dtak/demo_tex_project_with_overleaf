@@ -15,7 +15,7 @@ You'll see the files there are the same as the files in this repo.
 
 ** Prerequisite: Assumes that you have done the Setup steps below **
 
-After edits on Overleaf, which you want to syncronize to the github remote repo:
+After edits on Overleaf, which you want to synchronize to the github remote repo:
 ```
 git pull overleaf master
 git push github master
@@ -89,9 +89,6 @@ git pull github master --allow-unrelated-histories
 ```
 Note: the special flag here allows the two projects which started with unrelated content (a main.tex file from Overleaf, a README/License from Github) to become a single repo.
 
-
-
-```
 
 **That's all folks!**
 
