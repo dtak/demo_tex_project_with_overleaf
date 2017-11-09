@@ -13,6 +13,8 @@ You'll see the files there are the same as the files in this repo.
 
 ## Workflow (do this every time you edit your document)
 
+** Prerequisite: Assumes that you have done the Setup steps below **
+
 After edits on Overleaf, which you want to syncronize to the github remote repo:
 ```
 git pull overleaf master
@@ -36,6 +38,8 @@ git push overleaf master
 * * Copy the Clone with Git link
 
 Example link: `https://git.overleaf.com/12112063hyqwrddhndqq`
+
+If you have an existing project, just copy its link.
 
 ### (2) Clone the overleaf remote repo on your laptop
 
@@ -69,6 +73,8 @@ git remote rm origin
 * * Copy the "Clone" link
 
 Example link: `https://github.com/dtak/demo_tex_project_with_overleaf.git`
+
+If you have an existing Github repo you want to integrate, just copy its link.
 
 ### (4) Setup the github repo as an alternative remote
 
