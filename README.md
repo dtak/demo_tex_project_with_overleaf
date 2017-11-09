@@ -54,16 +54,16 @@ If you like, we recommend you remove the "origin" remote to avoid confusion:
 git remote rm origin
 ```
 
-* (3) Create a new repository on Github
+### (3) Create a new repository on Github
 
-* * Goto github.com/dtak/
+* * Goto github.com/dtak/ (or wherever your home is on github)
 * * Click the New button (green)
-* * Setup the description etc. as you wish
-* * Copy the "Clone with" link
+* * Setup the description etc. as you wish and click OK
+* * Copy the "Clone" link
 
 Example link: `https://github.com/dtak/demo_tex_project_with_overleaf.git`
 
-* (4) Setup the github repo as an alternative remote
+### (4) Setup the github repo as an alternative remote
 
 First, add a new remote named "github":
 ```
